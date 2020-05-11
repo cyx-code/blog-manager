@@ -1,5 +1,5 @@
 # blog-manager
-
+前后端分离的博客后台管理系统，暂时鸽了😂
 ## Project setup
 ```
 npm install
